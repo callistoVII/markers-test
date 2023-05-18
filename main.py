@@ -23,3 +23,4 @@ while continue_order:
     continue_order = True
   else:
     print("Thank you for using this Program, " + name +", enjoy your Markers!")
+    print("P.S.: Now you can see this on Github as well.")
